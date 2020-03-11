@@ -6,4 +6,3 @@ Made a simple Console based Tic Tac Toe game in python using basic python functi
 
 How to Run?
 - Just run normally as any python code.
-- Or if you have Python installed the just Double click the python file.
